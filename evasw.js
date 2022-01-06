@@ -1,0 +1,1 @@
+importScripts('https://ulmoyc.com/v1/sw-import.js?h=waWQiOjExMTE1NzgsInNpZCI6MTEyMjk3NSwid2lkIjoyOTI5OTMsInNyYyI6MiwicG0iOjB9eyJ&d=voucher.waw.pl');
